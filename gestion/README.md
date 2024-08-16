@@ -1,8 +1,14 @@
 
 # React Quiz App
 
+![image](https://github.com/user-attachments/assets/842df3b8-23fd-4417-953f-abf51cf40b48)
+
 ## Overview
 This React application is a simple quiz app that displays questions to users, tracks their answers, and shows the final score upon completion. It uses state management to handle the current question, the user's score, and the display of results.
+
+![image](https://github.com/user-attachments/assets/470cf12b-b62a-4da3-a6be-15e3256f0230)
+
+![image](https://github.com/user-attachments/assets/d570f200-d465-45ef-9616-80051a455606)
 
 ## State Management
 
